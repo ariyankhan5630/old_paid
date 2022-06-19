@@ -8,20 +8,33 @@ Ssb update ✌️✌️✌️
 
 $ termux-setup-storage
 
-$ rm -rf PROHACK
+$ rm -rf test
 $ pkg update
+
 $ pkg upgrade
+
 $ pkg install python
+
 $ pkg install python2
+
 $ pip install requests
+
 $ pip install mechanize
+
 $ pkg install python2 git nodejs
+
 $ pip install lolcat
+
 $ pip install rich
+
 $ pip install bs4
+
 $ pkg install git
+
 $ git clone https://github.com/naim404cyber/test
+
 $ cd test
+
 $ python main.py
 
 
@@ -33,4 +46,10 @@ Frist payment then approval so  not give and free
 350rs.  Pakistan and india
 
 500tk   Bangladesh 
+
 6$   Other County 
+
+
+Bye 
+
+01980662538 WhatsApp 
