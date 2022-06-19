@@ -1,10 +1,10 @@
 # ssb tools
 This tools paid so not free fast payment 
 
-Ssb update ✌️✌️✌️
+Ssb update ✌️✌️✌️🎯
 
 
-‌® $ installation√
+‌🎯installation√
 
 $ termux-setup-storage
 
@@ -37,10 +37,10 @@ $ cd test
 
 $ python main.py
 
+🎯🎯🎯🎯🎯🎯🎯🎯
 
 
-
-Frist payment then approval so  not give and free
+Frist♥️♥️ payment then approval so  not give and free
 
 
 350rs.  Pakistan and india
@@ -50,6 +50,6 @@ Frist payment then approval so  not give and free
 6$   Other County 
 
 
-Bye 
 
 01980662538 WhatsApp 
+♦️♦️
