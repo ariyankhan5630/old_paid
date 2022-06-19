@@ -31,5 +31,6 @@ Frist payment then approval so  not give and free
 
 
 350rs.  Pakistan and india
+
 500tk   Bangladesh 
 6$   Other County 
