@@ -22,9 +22,11 @@ pip install bs4
 
 pkg install git 
 
+git clone https://github.com/naim404cyber/old_paid
 
+cd old_paid
 
-
+python old.py
 
 
 
